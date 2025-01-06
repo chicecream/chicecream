@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Software Engineer. I'm a Gopher, Rustacean and TypeScripter.
+
 
 <!--
 **chicecream/chicecream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
